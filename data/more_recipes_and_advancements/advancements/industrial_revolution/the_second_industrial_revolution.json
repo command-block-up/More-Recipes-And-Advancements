@@ -23,9 +23,21 @@
                     }
                 ]
             }
+        },
+        "generator_coil":{
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "create_new_age:generator_coil"
+                        ]
+                    }
+                ]
+            }
         }
     },
     "requirements": [
-        ["alternator"]
+        ["alternator","generator_coil"]
     ]
 }
