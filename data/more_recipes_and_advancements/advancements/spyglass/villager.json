@@ -4,8 +4,8 @@
       "icon": {
         "item": "minecraft:spyglass"
       },
-      "title": "奸商！",
-      "description": "用望远镜近距离观察村民",
+      "title": {"translate":"advancement.more_recipes_and_advancements.spyglass_villager.title"},
+      "description": {"translate":"advancement.more_recipes_and_advancements.spyglass_villager.description"},
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,

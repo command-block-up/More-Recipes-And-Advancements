@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:spyglass"
         },
-        "title": "望远镜",
-        "description": "尝试用它观察一下生物，有惊喜哦！",
+        "title": {"translate":"advancement.more_recipes_and_advancements.spyglass.title"},
+        "description": {"translate":"advancement.more_recipes_and_advancements.spyglass.description"},
         "frame": "challenge",
         "announce_to_chat": true,
         "show_toast": true,

@@ -1,8 +1,8 @@
 {
     "parent":"more_recipes_and_advancements:create/schematic_editor",
     "display": {
-        "title":"自动建造！",
-        "description":"用蓝图加农炮来自动化建筑吧！",
+        "title":{"translate":"advancement.more_recipes_and_advancements.auto_building.title"},
+        "description":{"translate":"advancement.more_recipes_and_advancements.auto_building.description"},
         "icon":{
             "item":"create:schematicannon"
         },

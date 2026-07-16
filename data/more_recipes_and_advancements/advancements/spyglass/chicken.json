@@ -4,8 +4,8 @@
       "icon": {
         "item": "minecraft:spyglass"
       },
-      "title": "那是只因吗?",
-      "description": "用望远镜近距离观察鸡",
+      "title": {"translate":"advancement.more_recipes_and_advancements.spyglass_chicken.title"},
+      "description": {"translate":"advancement.more_recipes_and_advancements.spyglass_chicken.description"},
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,

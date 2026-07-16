@@ -1,7 +1,7 @@
 {
     "display": {
-        "title":"更多配方和进度！",
-        "description":"让更多配方和进度(成就)来丰富你的世界吧！",
+        "title":{"translate":"advancement.more_recipes_and_advancements.root.title"},
+        "description":{"translate":"advancement.more_recipes_and_advancements.root.description"},
         "icon": {
             "item": "minecraft:command_block"
         },

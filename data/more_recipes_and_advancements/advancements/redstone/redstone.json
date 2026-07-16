@@ -3,8 +3,8 @@
       "icon": {
         "item": "minecraft:redstone"
       },
-      "title": "红石科技！",
-      "description": "工业革命",
+      "title": {"translate":"advancement.more_recipes_and_advancements.redstone.title"},
+      "description": {"translate":"advancement.more_recipes_and_advancements.redstone.description"},
       "frame": "challenge",
       "show_toast": true,
       "announce_to_chat": true,

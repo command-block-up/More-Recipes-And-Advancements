@@ -4,8 +4,8 @@
       "icon": {
         "item": "minecraft:spyglass"
       },
-      "title": "那是铁锭吗？",
-      "description": "铁傀儡+村民*3+掠夺者/僵尸=刷铁机",
+      "title": {"translate":"advancement.more_recipes_and_advancements.spyglass_iron.title"},
+      "description": {"translate":"advancement.more_recipes_and_advancements.spyglass_iron.description"},
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,

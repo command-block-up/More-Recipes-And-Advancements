@@ -1,8 +1,8 @@
 {
     "parent":"more_recipes_and_advancements:industrial_revolution/the_second_industrial_revolution",
     "display": {
-        "title": "第三次工业革命",
-        "description": "计算机是第三次工业革命的标志之一。\n从此，我们进入了信息时代！",
+        "title": {"translate":"advancement.more_recipes_and_advancements.the_third_industrial_revolution.title"},
+        "description": {"translate":"advancement.more_recipes_and_advancements.the_third_industrial_revolution.description"},
         "icon":{
             "item": "computercraft:computer_normal"
         },

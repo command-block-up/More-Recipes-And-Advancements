@@ -1,8 +1,8 @@
 {
     "parent":"more_recipes_and_advancements:advancements/wooden_pickaxe",
     "display": {
-        "title": "“热”门话题",
-        "description": "用八个圆石来制作一个熔炉",
+        "title": {"translate":"advancement.more_recipes_and_advancements.furnace.title"},
+        "description": {"translate":"advancement.more_recipes_and_advancements.furnace.description"},
         "icon": {
             "item":"minecraft:furnace"
         },

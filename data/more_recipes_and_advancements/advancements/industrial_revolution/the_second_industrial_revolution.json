@@ -1,8 +1,8 @@
 {
     "parent":"more_recipes_and_advancements:industrial_revolution/the_first_industrial_revolution",
     "display": {
-        "title": "第二次工业革命",
-        "description": "电力是第二次工业革命的标志",
+        "title": {"translate":"advancement.more_recipes_and_advancements.the_second_industrial_revolution.title"},
+        "description": {"translate":"advancement.more_recipes_and_advancements.the_second_industrial_revolution.description"},
         "icon":{
             "item": "createaddition:accumulator"
         },

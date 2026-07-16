@@ -4,8 +4,8 @@
       "icon": {
         "item": "minecraft:crafting_table"
       },
-      "title": "这是......工作台！",
-      "description": "用四个木板来制作一个工作台",
+      "title": {"translate":"advancement.more_recipes_and_advancements.minecraft.title"},
+      "description": {"translate":"advancement.more_recipes_and_advancements.minecraft.description"},
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,

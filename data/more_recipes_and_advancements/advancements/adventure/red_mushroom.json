@@ -4,8 +4,8 @@
       "icon": {
         "item": "minecraft:red_mushroom"
       },
-      "title": "红伞伞，白杆杆",
-      "description": "红伞伞，白杆杆，吃完一起躺板板",
+      "title": {"translate":"advancement.more_recipes_and_advancements.red_mushroom.title"},
+      "description": {"translate":"advancement.more_recipes_and_advancements.red_mushroom.description"},
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,

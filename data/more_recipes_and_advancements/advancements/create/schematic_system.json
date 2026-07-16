@@ -1,8 +1,12 @@
 {
-    "parent":"more_recipes_and_advancements:advancements/get_wood",
+    "parent": "more_recipes_and_advancements:advancements/get_wood",
     "display": {
-        "title":"蓝图系统！",
-        "description":"用蓝图来“存储”你的建筑！",
+        "title": {
+            "translate": "advancement.more_recipes_and_advancements.schematic_system.title"
+        },
+        "description": {
+            "translate": "advancement.more_recipes_and_advancements.schematic_system.description"
+        },
         "icon": {
             "item": "create:empty_schematic"
         },
@@ -12,13 +16,13 @@
         "hidden": true
     },
     "criteria": {
-        "schematic_system":{
+        "schematic_system": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
                         "items": [
-                            "create:schematic_and_quill"  
+                            "create:schematic_and_quill"
                         ]
                     }
                 ]

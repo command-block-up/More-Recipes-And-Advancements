@@ -4,8 +4,8 @@
       "icon": {
         "item": "minecraft:spyglass"
       },
-      "title": "大 熊 猫！！！",
-      "description": "用望远镜近距离观察熊猫",
+      "title": {"translate":"advancement.more_recipes_and_advancements.spyglass_panda.title"},
+      "description": {"translate":"advancement.more_recipes_and_advancements.spyglass_panda.description"},
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,

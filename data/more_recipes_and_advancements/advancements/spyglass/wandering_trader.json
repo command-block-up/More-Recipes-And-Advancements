@@ -4,8 +4,8 @@
       "icon": {
         "item": "minecraft:spyglass"
       },
-      "title": "那是拴绳吗？",
-      "description": "流浪拴绳",
+      "title": {"translate":"advancement.more_recipes_and_advancements.spyglass_wandering_trader.title"},
+      "description": {"translate":"advancement.more_recipes_and_advancements.spyglass_wandering_trader.description"},
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,
